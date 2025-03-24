@@ -1,1 +1,1 @@
-# renforsment_learnig_showdown
+# reinforcement_learning_showdown
